@@ -1,0 +1,5 @@
+Nome,Idade,Salário,Setor,Ativo
+João,25,3000.0,TI,sim
+Maria,-20,4000.0,RH,não
+Pedro,45,,Comercial,sim
+Ana,30,999999.0,menos,
