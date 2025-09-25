@@ -1,0 +1,13 @@
+Cidade,Temperatura,Umidade,Chuva,Vento
+São Paulo,25,80.0,sim,forte
+Rio,200,50.0,nao,fraco
+BH,22,-10.0,sim,
+Curitiba,18,90.0,menos,moderado
+Recife,30,105.0,não,forte
+Salvador,-100,70.0,sim,MENOS
+Fortaleza,28,85.0,S,Fraco
+Manaus,27,60.0,N,moderado
+Porto Alegre,19,95.0,Sim,fort
+Brasília,20,,nao,moderado
+Goiânia,400,30.0,menos,fraco
+Natal,26,200.0,sim,Moderado
