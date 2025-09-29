@@ -1,0 +1,13 @@
+Nome,Idade,Salário,Setor,Ativo
+João,25,3000,TI,sim
+Maria,-5,4000,RH,não
+Pedro,45,,Comercial,sim
+Ana,30,999999,Finanças,
+Carlos,150,2800,Financeiro,sim
+Beatriz,40,3200,Finance,nao
+Rafaela,35,3500,Financeiro,sim
+Tiago,29,10000,finance,não
+Paula,120,,comercial,
+José,50,4200,RH,sim
+Maria,-5,4000,RH,não
+Tiago,29,10000,FINANÇAS,nao

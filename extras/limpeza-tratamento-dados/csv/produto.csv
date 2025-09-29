@@ -1,0 +1,13 @@
+Produto,Preço,Quantidade,Categoria,Vendido_em
+TV,2000,3,Eletrônico,2022-01-10
+Geladeira,-1500,2,Eletrodoméstico,2022-01-11
+Notebook,3500,,ELETRONICOS,2022-01-13
+Celular,1200,10,tech,
+Fone,200,0,Eletronico,2022-01-15
+Tablet,0,5,Eletrodoméstico,2022-01-16
+TV,2000,3,eletrônico,2022-01-10
+Notebook,3500,1,Eletronicos,2022-01-13
+Mouse,80,20,acessórios,2022-01-20
+Geladeira,2500,2,EletroDoméstico,2022-01-21
+Notebook,3500,1,eletrônicos,2022-01-13
+Celular,1200,10,TECH,
